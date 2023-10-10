@@ -68,9 +68,11 @@ echo "Hola" >> 1.txt
 git add .
 git commit -m "hola en 1.txt"
 ```
-- <img src = "images/captura12.png">
+<img src = "images/captura12.png">
+
 - Posicionarse en la rama v0.2 y poner Adios en el fichero "1.txt" y hacer commit.
 <img src = images/captura13.png>
+
 - Posicionarse de nuevo en la rama main y hacer un merge con la rama v0.2
 <img src = "images/captura14.png">
 
@@ -106,6 +108,8 @@ git branch -d v0.2
 git config --global alias.list 'log --oneline --decorate --graph --all'
 git list
 ```
+
 <img src = "images/captura20.png">
+
 - Por último hago push de todo a main con git push origin main para que se actualice en el repositorio remoto todos los cambios que hemos hecho desde el último push.
 </div>
