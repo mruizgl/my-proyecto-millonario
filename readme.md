@@ -30,7 +30,7 @@ git push origin main
 - Crear en el repositorio local un fichero llamado __privado.txt__ y una carpeta llamada __privada__. Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
 <img src = "images/captura6.png">
 
-Pregunta: el fichero y el directorio privado debe de subir al repositorio si se encuentra añadido al fichero .gitingnore. [Si/No]. Justifica tu respuesta en el fichero README.md.
+__Pregunta:__ el fichero y el directorio privado debe de subir al repositorio si se encuentra añadido al fichero .gitingnore. [Si/No]. Justifica tu respuesta en el fichero README.md.
 
 
 <details>
@@ -48,7 +48,7 @@ touch 1.txt
 git add .
 git commit -m "añadido 1.txt"
 ```
-__Pregunta:__ Preunta: Si ejecutado las acciones add y commit, que realiza cada una sobre el/los ficheros. Justifica tu respuesta en el fichero README.md.
+__Pregunta:__ Si ejecutado las acciones add y commit, que realiza cada una sobre el/los ficheros. Justifica tu respuesta en el fichero README.md.
 <details>
   <summary>PULSA PARA VER LA RESPUESTA:</summary>
 git add .: Agrega todos los archivos modificados y nuevos al área de preparación.  git commit toma esos cambios preparados y crea un nuevo commit en la historia del repositorio con un mensaje descriptivo. 
@@ -74,7 +74,8 @@ git checkout v0.2
 ## Añadir fichero 2.txt
 - Añadir un fichero 2.txt en la rama v0.2.
 <img src = "images/captura9.png">
-__Pregunta:__ Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes. Justifica tu respuesta en el fichero README.md.
+
+__Pregunta__ Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes. Justifica tu respuesta en el fichero README.md.
 <details>
   <summary>PULSA PARA VER LA RESPUESTA:</summary>
 __Propósito__
