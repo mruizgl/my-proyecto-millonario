@@ -17,7 +17,7 @@ Vamos a crear un repositorio en GitHub que se llame "my-proyecto-millonario" htt
 __Pregunta:__ Si has clonado el repostorio es necesirio que parte del comando anterior puedo omitir.Justifica tu respuesta en el fichero README.md.
 <details>
   <summary>PULSA PARA VER LA RESPUESTA:</summary>
-El push porque lo cloné con todo hecho sin añadir nada.
+El commit inicial puesto que ya se hace al crearlo al igual que añadí el readme automáticamente.
 
 </details>
 
