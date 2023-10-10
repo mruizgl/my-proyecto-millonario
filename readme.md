@@ -78,7 +78,6 @@ git checkout v0.2
 __Pregunta__ Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes. Justifica tu respuesta en el fichero README.md.
 <details>
   <summary>PULSA PARA VER LA RESPUESTA:</summary>
-__Propósito__
 Propósito de las ramas:
 Las ramas en Git tienen los siguientes propósitos generales:
 
@@ -89,7 +88,7 @@ Experimentación y pruebas: Las ramas pueden utilizarse para probar nuevas carac
 Mantenimiento y corrección de errores: Las ramas facilitan la corrección de errores y el mantenimiento a largo plazo del proyecto sin interrupciones en el desarrollo principal.
 
 Gestión de versiones: Ayudan a gestionar versiones específicas del software o del proyecto, lo que es útil para liberar versiones estables.
-__Tamaño de organizaciones__
+Tamaño de organizaciones
 Organizaciones Pequeñas:
 
 Justificación: En organizaciones pequeñas, las ramas son útiles para facilitar la colaboración entre un pequeño número de desarrolladores. Permiten una gestión más efectiva de las características y los problemas a medida que evolucionan.
